@@ -13,3 +13,4 @@ chapter1/1-SpringbootUsingMaven/SpringbootMaven/target/classes/.idea/misc.xml
 chapter1/1-SpringbootUsingMaven/SpringbootMaven/target/classes/.idea/uiDesigner.xml
 chapter1/1-SpringbootUsingMaven/SpringbootMaven/target/classes/.idea/vcs.xml
 Spring-Boot-2-Recipes.pdf
+*.class
